@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/99417dc3-da06-40b8-bc47-65456e03dd89
 ## 📽️ Video Demo & Walkthrough
 
 🎥 **Watch the full tutorial**:  
-[👉 YouTube Video (Chatbot using langgraph)](https://your-youtube-link-here)
+[👉 YouTube Video (Chatbot using langgraph)](https://youtu.be/EYnIokxCddY)
 
 > Learn how this chatbot works under the hood and how to build one from scratch using LangGraph and Groq!
 
