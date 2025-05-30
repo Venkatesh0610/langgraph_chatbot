@@ -12,6 +12,7 @@ This project demonstrates how to build an **LLM-powered chatbot** using:
 
 ## 📊 Output Preview
 
+https://github.com/user-attachments/assets/99417dc3-da06-40b8-bc47-65456e03dd89
 
 ## 📽️ Video Demo & Walkthrough
 
